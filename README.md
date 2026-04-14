@@ -11,4 +11,4 @@ Use **Postman** to view *posts*:
 **GET** `/api/posts` - List all posts  
 **GET** `/api/posts/1` - List post by *id*  
 **PUT** `/api/posts/1` - Update post by *id*  
-**DELETE** `/api/posts/1` - Remove post by *id*
+**DELETE** `/api/posts/1` - Remove post by *id*  
